@@ -47,6 +47,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+![google-cybersecurity-certificate](https://github.com/addsvet/test-addsvet/assets/44527729/aa02353a-9c9d-45a5-8cdb-b57a6a5a00ff)
 
 
 </div>
